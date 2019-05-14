@@ -7,8 +7,17 @@ body
 .logo
 {
     font-size: 4rem;
-    background-color: #505050;
-    color: white;
-    text-align: center;
+    background-color: silver;
+    color: #1e1e1e;
+}
+
+.pages
+{
+	float: left;
+}
+
+.header
+{
+	margin-top: 8rem;
 }
 

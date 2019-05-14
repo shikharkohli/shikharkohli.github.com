@@ -2,6 +2,7 @@ body
 {
 	max-width: 100%;
 	margin: 0 auto;
+	background-color: #eeeeee;
 }
 
 .logo
@@ -9,11 +10,21 @@ body
     font-size: 4rem;
     background-color: silver;
     color: #1e1e1e;
+    letter-spacing: 0.25em;
 }
 
-.pages
+.pages > h5
 {
 	text-align: center;
+	margin-top: 1rem;
+	font-size: 1em;
+	letter-spacing: 0.2em;
+}
+
+
+a
+{
+	color: gray;
 }
 
 .header
